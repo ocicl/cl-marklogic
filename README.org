@@ -1,0 +1,10 @@
+* cl-marklogic
+
+CL-Marklogic is a Lisp system for optimizing MarkLogic clusters.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/opsresearch/cl-marklogic.git   |
+| commit  | 8266f26  |
+| systems | cl-marklogic |
+|---------+-------------------------------------------|
+
